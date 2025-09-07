@@ -15,8 +15,8 @@
 // ========================= CONFIGURAÇÕES INICIAIS ==========================
 
 // Configurações editáveis de Wi-Fi e Broker
-const char* default_SSID = "FIAP-IOT";        // Nome da rede Wi-Fi
-const char* default_PASSWORD = "F!@p25.IOT";  // Senha da rede Wi-Fi
+const char* default_SSID = "REDE1";        // Nome da rede Wi-Fi
+const char* default_PASSWORD = "SENHA2";  // Senha da rede Wi-Fi
 const char* default_BROKER_MQTT = "20.163.23.245"; // IP do Broker MQTT
 const int default_BROKER_PORT = 1883;         // Porta padrão MQTT
 
