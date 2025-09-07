@@ -1,3 +1,7 @@
+Henrique Keigo Nakashima Minowa - RM:564091
+Eduardo Delorenzo Moraes - RM:561749
+Matheus Bispo Faria Barbosa - RM:562140
+
 # 🌐 FIWARE Smart Lamp – PoC com ESP32
 Projeto de Prova de Conceito (PoC) utilizando ESP32 DEVKIT 1, FIWARE Descomplicado e Postman para monitoramento e controle de uma lâmpada inteligente.
 Este protótipo é parte do estudo de monitoramento global de vinherias, utilizando sensor LDR para leitura de luminosidade.
