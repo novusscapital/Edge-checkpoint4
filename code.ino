@@ -2,11 +2,6 @@
  Projeto: Smart Lamp - PoC FIWARE com ESP32
  Autores: Matheus Bispo, Eduardo Delorenzo, Henrique Keigo
  Data: 07/09/2025
- Resumo: Código adaptado a partir do exemplo em sala de aula
- Alterações:
-   - Ajuste do SSID e senha da rede Wi-Fi
-   - Renomeação dos tópicos MQTT para o projeto SmartLamp
-   - Inclusão de comentários explicativos em cada função
 */
 
 #include <WiFi.h>           // Biblioteca para conexão Wi-Fi
