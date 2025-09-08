@@ -35,5 +35,5 @@
 
 Vídeo que mostra a SmartLamp funcionando: 📺 [Vídeo da simulação funcionando](https://youtu.be/d2TaLoZvgjg?si=l5Gs-5NLf_5yGnTT)
 
-Vídeo que ensina a construir a VM e ligar ao postman: 📺 [Vídeo da simulação no Wokwi](https://www.linkedin.com/posts/diogopelinsonmoraes_fiware-iot-azure-activity-7362259978176397312-avBS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA4IttQBKDdr5cvPzUTzpVSkZFkQM-qKngk)
+Vídeo que ensina a construir a VM e ligar ao postman: 📺 [Vídeo de Diogo (Altamente Recomendado)](https://www.linkedin.com/posts/diogopelinsonmoraes_fiware-iot-azure-activity-7362259978176397312-avBS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA4IttQBKDdr5cvPzUTzpVSkZFkQM-qKngk)
 
