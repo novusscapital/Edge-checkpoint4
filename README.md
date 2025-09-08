@@ -8,7 +8,7 @@
 
 ## 📋 Requisitos
 ### 🔧 Hardware
-* (pode fazer ligação direta, sem a necessidade desses materiais)
+```*(pode fazer ligação direta, sem a necessidade desses materiais)```
 - ESP32 DEVKIT 1
 
 - Sensor LDR (fotoresistor)
